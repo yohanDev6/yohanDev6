@@ -1,6 +1,6 @@
 ### Olá! Eu sou Yohan 🐦☕. Um desenvolvedor full-stack.
 
-<div align="center">
+<div>
     <img src="https://github-readme-stats.vercel.app/api?username=yohanDev6&theme=vue-dark&show_icons=true&hide_border=true&count_private=false" alt="yohanDev6's Stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=yohanDev6&theme=vue-dark&hide_border=true" alt="yohanDev6's Streak">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yohanDev6&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="yohanDev6's Top Languages">
@@ -26,6 +26,7 @@
 ### Banco de dados
 <div align="center">
     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+    <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt=SQLite>
 </div>
 
 Amante da tecnologia e programação.
