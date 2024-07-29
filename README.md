@@ -1,6 +1,8 @@
 ### Olá! Eu sou Yohan 🐦☕
 
-![Yohan GitHub stats](https://github-readme-stats.vercel.app/api?username=yohan169&show_icons=true&theme=radical)
+![yohanDev6's Stats](https://github-readme-stats.vercel.app/api?username=yohanDev6&theme=vue-dark&show_icons=true&hide_border=true&count_private=false)
+![yohanDev6's Streak](https://github-readme-streak-stats.herokuapp.com/?user=yohanDev6&theme=vue-dark&hide_border=true)
+![yohanDev6's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yohanDev6&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ## Tecnologias que utilizo no meu cotidiano
 <div style="display: inline-block;"><br/>
