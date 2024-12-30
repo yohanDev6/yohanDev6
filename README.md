@@ -3,27 +3,11 @@
 ### `Desevolvedor Junior Full-stack`
 
 Eu sou Yohan Mendonça, tenho 19 anos, sou Potiguar 🍤, (RN), e gosto bastante de tecnologia, mas principalmente de Softwares. Fiz o ensino médio no IFRN Campus Santa Cruz, lugar em que cursei Informática 👨‍💻. Estou começando no desenvolvimento de software, mas tenho bastante conhecimento, potencial e objetivos na área.
-
-<p align="start">
-    <a href="https://github.com/yohanDev6?tab=repositories&sort=stargazers">
-        <img
-            alt="Estrelas"
-            title="Total de estrelas"
-            src="https://img.shields.io/github/stars/yohanDev6?style=social"
-        />
-    </a>
-    <a href="https://github.com/yohanDev6?tab=followers">
-        <img
-            alt="Seguidores"
-            title="Meus seguidores"
-            src="https://img.shields.io/github/followers/yohanDev6?style=social"
-        />
-    </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/pedro-yohan-mendonça-da-silva-178587305)
 
 ---
 
-### Tecnologias
+### 🛠️ Tecnologias
 
 <img 
 align="left"
@@ -106,6 +90,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.
 
 ---
 
-### Estatísticas
+### 📊 Estatísticas
 
 ![Yohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=yohanDev6&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yohanDev6&layout=compact&theme=dark)
