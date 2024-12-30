@@ -1,32 +1,111 @@
-### Olá! Eu sou Yohan 🐦☕. Um desenvolvedor full-stack.
+# 💻 Yohan Mendonça
 
-<div>
-    <img src="https://github-readme-stats.vercel.app/api?username=yohanDev6&theme=vue-dark&show_icons=true&hide_border=true&count_private=false" alt="yohanDev6's Stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=yohanDev6&theme=vue-dark&hide_border=true" alt="yohanDev6's Streak">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yohanDev6&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="yohanDev6's Top Languages">
-</div>
+### `Desevolvedor Junior Full-stack`
 
-## Tecnologias que utilizo no meu cotidiano
+Eu sou Yohan Mendonça, tenho 19 anos, sou Potiguar 🍤, (RN), e gosto bastante de tecnologia, mas principalmente de Softwares. Fiz o ensino médio no IFRN Campus Santa Cruz, lugar em que cursei Informática 👨‍💻. Estou começando no desenvolvimento de software, mas tenho bastante conhecimento, potencial e objetivos na área.
 
-### Front-end
-<div align="center">
-    <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-    <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript">
-    <img src="https://img.shields.io/badge/React-00000F?style=for-the-badge&logo=react&logoColor=white" alt="React">
-    <img src="https://img.shields.io/badge/Bootstrap-00000F?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
-</div>
+<p align="start">
+    <a href="https://github.com/yohanDev6?tab=repositories&sort=stargazers">
+        <img
+            alt="Estrelas"
+            title="Total de estrelas"
+            src="https://img.shields.io/github/stars/yohanDev6?style=social"
+        />
+    </a>
+    <a href="https://github.com/yohanDev6?tab=followers">
+        <img
+            alt="Seguidores"
+            title="Meus seguidores"
+            src="https://img.shields.io/github/followers/yohanDev6?style=social"
+        />
+    </a>
+</p>
 
-### Back-end
-<div align="center">
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring">
-</div>
+---
 
-### Banco de dados
-<div align="center">
-    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-    <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt=SQLite>
-</div>
+### Tecnologias
 
-Amante da tecnologia e programação.
+<img 
+align="left"
+alt="HTML5"
+title="HTML5"
+width="30px"
+style="margin-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+<img 
+align="left"
+alt="CSS3"
+title="CSS3"
+width="30px"
+style="margin-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img
+align="left"
+alt="Javascript"
+title="Javascript"
+width="30px"
+style="margin-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img
+align="left"
+alt="Java"
+title="Java"
+width="30px"
+style="margin-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+<img 
+align="left"
+alt="Python"
+title="Python"
+width="30px"
+style="margin-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img
+align="left"
+alt="Bootstrap"
+title="Bootstrap"
+width="30px"
+style="margin-right: 10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
+<img
+align="left"
+alt="React"
+title="React"
+width="30px"
+style="margin-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+<img
+align="left"
+alt="Spring"
+title="Spring"
+width="30px"
+style="margin-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+<img 
+align="left"
+alt="Django"
+title="Django"
+width="30px"
+style="margin-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
+<img
+align="left"
+alt="MySQL"
+title="MySQL"
+width="30px"
+style="margin-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+<img
+align="left"
+alt="Git"
+title="Git"
+width="30px"
+style="margin-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+<br/>
+
+---
+
+### Estatísticas
+
+![Yohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=yohanDev6&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yohanDev6&layout=compact&theme=dark)
