@@ -3,7 +3,6 @@
 ### `Desevolvedor Junior Full-stack`
 
 Eu sou Yohan Mendonça, tenho 19 anos, sou Potiguar 🍤, (RN), e gosto bastante de tecnologia, mas principalmente de Softwares. Fiz o ensino médio no IFRN Campus Santa Cruz, lugar em que cursei Informática 👨‍💻. Estou começando no desenvolvimento de software, mas tenho bastante conhecimento, potencial e objetivos na área.
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/pedro-yohan-mendonça-da-silva-178587305)
 
 ---
 
