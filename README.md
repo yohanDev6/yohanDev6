@@ -8,51 +8,84 @@ Eu sou Yohan Mendonça, tenho 19 anos, sou Potiguar 🍤 (RN) e gosto bastante d
 
 ### 🛠️ Tecnologias
 
-<div align="center" style="display: flex; gap: 10px; flex-wrap: wrap; width: 100%;">
-  <div align="center" style="width: 96px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" />
-  </div>
-
-  <div align="center" style="width: 96px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" />
-  </div>
-
-  <div align="center" style="width: 96px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
-  </div>
-
-  <div align="center" style="width: 96px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="48" height="48" alt="Java" />
-  </div>
-
-  <div align="center" style="width: 96px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="48" height="48" alt="Python" />
-  </div>
-
-  <div align="center" style="width: 96px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="48" height="48" alt="Bootstrap" />
-  </div>
-
-  <div align="center" style="width: 96px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="48" height="48" alt="React" />
-  </div>
-
-  <div align="center" style="width: 96px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="48" height="48" alt="Spring" />
-  </div>
-
-  <div align="center" style="width: 96px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="48" height="48" alt="Django" />
-  </div>
-
-  <div align="center" style="width: 96px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
-  </div>
-
-  <div align="center" style="width: 96px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="48" height="48" alt="Git" />
-  </div>
-</div>
+<img 
+align="left"
+alt="HTML5"
+title="HTML5"
+width="30px"
+style="margin-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+<img 
+align="left"
+alt="CSS3"
+title="CSS3"
+width="30px"
+style="margin-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img
+align="left"
+alt="Javascript"
+title="Javascript"
+width="30px"
+style="margin-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img
+align="left"
+alt="Java"
+title="Java"
+width="30px"
+style="margin-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+<img 
+align="left"
+alt="Python"
+title="Python"
+width="30px"
+style="margin-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img
+align="left"
+alt="Bootstrap"
+title="Bootstrap"
+width="30px"
+style="margin-right: 10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
+<img
+align="left"
+alt="React"
+title="React"
+width="30px"
+style="margin-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+<img
+align="left"
+alt="Spring"
+title="Spring"
+width="30px"
+style="margin-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+<img 
+align="left"
+alt="Django"
+title="Django"
+width="30px"
+style="margin-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
+<img
+align="left"
+alt="MySQL"
+title="MySQL"
+width="30px"
+style="margin-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+<img
+align="left"
+alt="Git"
+title="Git"
+width="30px"
+style="margin-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+<br/>
 
 ---
 
