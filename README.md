@@ -8,7 +8,7 @@ Eu sou Yohan Mendonça, tenho 19 anos, sou Potiguar 🍤 (RN) e gosto bastante d
 
 ### 🛠️ Tecnologias
 
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: space-evenly;">
+<div align="center" style="display: flex; gap: 10px; flex-wrap: wrap; width: 100%;">
   <div align="center" style="width: 96px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" />
   </div>
