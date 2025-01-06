@@ -1,6 +1,6 @@
 # 💻 Yohan Mendonça
 
-### `Desenvolvedor Júnior Full-stack`
+### `Desenvolvedor Júnior Full-stack | Java & Javascript`
 
 Eu sou Yohan Mendonça, tenho 19 anos, sou Potiguar 🍤 (RN) e gosto bastante de tecnologia, principalmente de Softwares. Fiz o ensino médio no IFRN Campus Santa Cruz, onde cursei Informática 👨‍💻. Estou começando no desenvolvimento de software, mas tenho bastante conhecimento, potencial e objetivos na área.
 
